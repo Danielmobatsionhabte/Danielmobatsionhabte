@@ -32,5 +32,7 @@ I'm a versatile web developer with a passion for crafting dynamic, responsive we
                                 <img width="32" height="32" src="https://img.icons8.com/external-outline-black-m-oki-orlando/32/external-etl-data-engineering-outline-outline-black-m-oki-orlando.png" alt="external-etl-data-engineering-outline-outline-black-m-oki-orlando"/>
                                 <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
                                 <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/>
+                                <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
                                 <img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
                                 <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
+                                <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>

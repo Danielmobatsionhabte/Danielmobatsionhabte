@@ -5,8 +5,8 @@ I'm a versatile web developer with a passion for crafting dynamic, responsive we
 
 - **Email:** [danimobts@gmail.com](mailto:danimobts@gmail.com)
 
-🛠️ My Toolbox  
-    Languages & Frameworks: PHP, Laravel, JavaScript, jQuery, AngularJS, React.js, HTML5, CSS3, SCSS, Bootstrap  
+## 🛠️ My Toolbox  
+    Languages & Frameworks: Java, PHP, Laravel, JavaScript, jQuery, AngularJS, React.js, HTML5, CSS3, SCSS, Bootstrap  
     Database Management: MySQL,MSSQL and MongoDB  
     Version Control: Git & GitHub  
     API Development: RESTful APIs  

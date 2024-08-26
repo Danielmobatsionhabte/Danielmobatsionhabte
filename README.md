@@ -1,6 +1,9 @@
 Hi There👋!    
 
 I'm a versatile web developer with a passion for crafting dynamic, responsive web applications. With a background spanning various industries, I've honed a diverse set of skills that allow me to bring innovative solutions to life. My work is driven by a deep understanding of client needs, and I consistently deliver projects that exceed expectations and meet tight deadlines.  
+## 📫 How to Reach Me
+
+- **Email:** [danimobts@gmail.com](mailto:danimobts@gmail.com)
 
 🛠️ My Toolbox  
     Languages & Frameworks: PHP, Laravel, JavaScript, jQuery, AngularJS, React.js, HTML5, CSS3, SCSS, Bootstrap  
@@ -9,6 +12,7 @@ I'm a versatile web developer with a passion for crafting dynamic, responsive we
     API Development: RESTful APIs  
     Web Hosting & Management: Azure, Apache, CPanel  
     Other Tools: ETL for data integration, Twilio for communication services  
+    
 
  <img width="64" height="64" src="https://img.icons8.com/nolan/64/php--v2.png" alt="php--v2"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
                                     <img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-css-computer-science-flaticons-lineal-color-flat-icons.png" alt="external-css-computer-science-flaticons-lineal-color-flat-icons"/>

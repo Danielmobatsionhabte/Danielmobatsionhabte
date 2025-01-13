@@ -6,12 +6,11 @@ I'm a versatile web developer with a passion for crafting dynamic, responsive we
 - **Email:** [danimobts@gmail.com](mailto:danimobts@gmail.com)
 
 ## 🛠️ My Toolbox  
-    Languages & Frameworks: Java, PHP, Laravel, JavaScript, jQuery, AngularJS, React.js, HTML5, CSS3, SCSS, Bootstrap  
-    Database Management: MySQL,MSSQL and MongoDB  
-    Version Control: Git & GitHub  
-    API Development: RESTful APIs  
-    Web Hosting & Management: Azure, Apache, CPanel  
-    Other Tools: ETL for data integration, Twilio for communication services  
+    Languages & Frameworks: Java, Node.js, PHP, Laravel, JavaScript, jQuery, AngularJS, React.js, HTML5, CSS3, SCSS, Bootstrap, tailwind css, ionic framework,   
+    Database Management: MySQL,MSSQL, MongoDB, dynamodb, and Postgre   
+    Version Control: Git & GitHub, Jira  
+    API Development: RESTful APIs, GraphQL  
+    Web Hosting & Management: AWS, Azure and Google cloud 
     
 
  <img width="64" height="64" src="https://img.icons8.com/nolan/64/php--v2.png" alt="php--v2"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>

@@ -1,7 +1,4 @@
-Hi There👋!    
-
-I'm a versatile web developer with a passion for crafting dynamic, responsive web applications. With a background spanning various industries, I've honed a diverse set of skills that allow me to bring innovative solutions to life. My work is driven by a deep understanding of client needs, and I consistently deliver projects that exceed expectations and meet tight deadlines.  
-## 📫 How to Reach Me
+Hi There👋! 
 
 - **Email:** [danimobts@gmail.com](mailto:danimobts@gmail.com)
 
